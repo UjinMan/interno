@@ -1,0 +1,45 @@
+.section1{
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 175px;
+}
+
+.design{
+    display: flex;
+    justify-content: space-between;
+}
+
+.design h4{
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 39px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #292F36;
+}
+
+.design p{
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    margin-top: 17px;
+}
+
+.design button{
+    background-color: transparent;
+    color: #4D5053;
+    font-family: 'Jost';
+    border: none;
+    margin-top: 15px;
+}
+
+.first{
+    margin-top: 48px !important;
+}

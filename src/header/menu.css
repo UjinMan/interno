@@ -1,0 +1,24 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    max-width: 1200px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.navigation a{
+    text-decoration: none;
+    margin-right: 15px;
+    color:black;
+}
+
+
+
+.menu__logo img{
+   margin-right: 5px;
+}
+
+.navigation a:hover{
+    color:rgb(191, 123, 22);
+}

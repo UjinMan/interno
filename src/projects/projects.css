@@ -1,0 +1,74 @@
+.projects{
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 113px;
+}
+
+.proj__h2{
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 58px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #292F36;
+}
+
+.proj__p{
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    margin-top: 53px;
+}
+
+.examples{
+    margin-top: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.proj__example{
+    text-align: left;
+    margin-bottom: 60px;
+    height: 756px;
+    max-width: 590px;
+    width: 100%;
+}
+
+h4{
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.22px;
+    color: #292F36;
+    margin-top: 25px;
+}
+
+.example__info .proj__p{
+    text-align: left;
+    margin-top: 5px;
+}
+
+.example__info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.example__btn{
+    background-image: url(../images/projects/btn.png);
+    background-color: transparent;
+    border: none;
+    width: 70px;
+    height: 70px;
+    display: block;
+    margin-top: 20px;
+}

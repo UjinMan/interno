@@ -1,0 +1,13 @@
+.brands{
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 147px;
+    flex-wrap: wrap;
+}
+
+.brands__block{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #FFF;
+}

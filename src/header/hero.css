@@ -1,0 +1,49 @@
+.Hero{
+    background-image: url(../images/herobg.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    text-align: left;
+
+}
+
+.hero__item{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 195px;
+}
+
+.dream{
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 96px;
+    letter-spacing: 0.22px;
+    color: #292F36;
+
+}
+
+.p{
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    text-align: left;
+    margin: 19px 0 0 0;
+}
+
+.gstarted{
+    width: 207px;
+    height: 71px;
+    border-radius: 20px;
+    background-image: url(../images/btn.png);
+    margin: 35px 0 400px 0px;
+}
+
+
+
+

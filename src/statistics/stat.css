@@ -1,0 +1,43 @@
+.statistics{
+    background-color:  #F4F0EC;
+    padding-top: 139px;
+    margin-top: 80px;
+}
+
+.stat{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.stat__item{
+    height: 185px;
+    width: 288px;
+    border-right: 1px solid #CDA274;
+    margin-bottom: 140px;
+}
+
+h3{
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 85px;
+    line-height: 128px;
+    text-align: center;
+    letter-spacing: 1.7px;
+    color: #CDA274;
+    margin-top: 15px;
+}
+
+.stat__p{
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}
+

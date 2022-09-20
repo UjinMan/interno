@@ -1,0 +1,18 @@
+h1, h2, h3, h4, h5, h6, p{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    margin-top: 15px;
+}
+
+button{
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.72px;
+    color: #FFFFFF;
+    align-items: center;
+}

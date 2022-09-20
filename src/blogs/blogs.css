@@ -1,0 +1,120 @@
+.blogs{
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 143px;
+}
+
+.blog{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.blog__example{
+    max-width: 330px;
+    max-height: 515px;
+    border: 1px solid #E7E7E7;
+    border-radius: 62px;
+    padding: 21px 21px 41px 21px;
+    margin-bottom: 40px;
+}
+
+.blog__btn{
+    background-image: url(../images/blogs/btn.png);
+    background-color: transparent;
+    width: 52px;
+    height: 52px;
+    border:none;
+}
+
+.blog__example img{
+    width: 100%;
+}
+
+.blog__example h4{
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: 0.5px;
+    color: #292F36;
+    text-align: left;
+    margin-top: 15px;
+}
+
+.blog__example p{
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    margin-top: 34px;
+}
+
+.blogs__h2{
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 62px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #292F36;
+}
+
+.blogs__p{
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    margin-top: 21px;
+}
+
+.join{
+    background-color: #292F36;
+    border-radius: 70px;
+    margin-top: 10%;
+    padding-top: 9%;
+}
+
+.join__h{
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 75px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #FFFFFF;
+}
+
+.join__p{
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #FFFFFF;
+    margin-top: 1.5%;
+    
+}
+
+.connect{
+    background-image: url(../images/blogs/connect.png);
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 241px;
+    height:71px;
+    margin: 3% 0 7% 0;
+}
